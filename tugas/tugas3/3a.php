@@ -8,7 +8,7 @@ function hitungLuasLingkaran($r)
 $rLuas = 10;
 $luas = hitungLuasLingkaran($rLuas);
 echo "Jari-jari = $rLuas cm.<br>";
-echo "Luas lingkaran = $luas cm²<br>";
+echo "Luas lingkaran = $luas cm<sup>2</sup><br>";
 
 echo "<hr>";
 
